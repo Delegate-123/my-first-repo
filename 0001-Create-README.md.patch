@@ -1,0 +1,20 @@
+From 41e95247cae03c26bf5241175e87364b0867a829 Mon Sep 17 00:00:00 2001
+From: Delegate-123 <delegateone35@gmail.com>
+Date: Mon, 16 Dec 2024 12:15:10 +0000
+Subject: [PATCH 1/2] Create README.md
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..9daa8e1
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# my-first-repo
+-- 
+2.47.1.windows.1
+

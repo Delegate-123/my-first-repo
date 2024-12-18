@@ -1,0 +1,31 @@
+From 84728a9588c7997753789fb0f471d285eeb3b943 Mon Sep 17 00:00:00 2001
+From: Delegate-123 <delegateone35@gmail.com>
+Date: Tue, 17 Dec 2024 06:00:16 +0000
+Subject: [PATCH 2/2] Added index.html file
+
+---
+ index.html | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+ create mode 100644 index.html
+
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..d01f779
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1,11 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <title>Document</title>
++</head>
++<body>
++    
++</body>
++</html>
+\ No newline at end of file
+-- 
+2.47.1.windows.1
+
